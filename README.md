@@ -23,7 +23,7 @@ pip package manager
 Step-by-Step Setup
 bash
 # 1. Clone the repository
-git clone https://github.com/techwithtim/Advanced-Multi-Agent-Workout-App.git
+git clone https://github.com/abhhimanyu29/multi-agent-workout.git
 cd Advanced-Multi-Agent-Workout-App
 
 # 2. Create virtual environment (recommended)
